@@ -8,22 +8,17 @@
 
 Tech Lead e Software Developer com atuação em produtos digitais e sistemas corporativos de alta complexidade.
 
-- Liderança técnica em frentes Full Stack, com foco em arquitetura, qualidade de entrega e evolução contínua de produto.
+- Liderança técnica em frentes Full Stack, com foco em arquitetura, engenharia, qualidade de entrega e evolução contínua de produto.
 - Experiência em projetos em produção nas áreas de ERP, CRM, e-commerce, educação, saúde, nutrição, eventos/acesso e gestão operacional.
 - Forte atuação em back-end com .NET 8 e ASP.NET Core, além da construção de interfaces modernas com React, Vite e TypeScript.
 - Vivência com integrações financeiras, automações, mensageria, relatórios, filas, workers e serviços orientados a domínio.
 - Participação direta na padronização de bases reutilizáveis para acelerar novos produtos e manter consistência arquitetural.
-
----
-
-### Experiência
-
 - Arquitetura modular e Clean Architecture aplicada em soluções com múltiplos módulos de Core, Infrastructure, Communication, API e integrações especializadas.
-- Integrações com AWS, Cielo, Sicoob, Asaas, ZapSign, BrasilAPI e OpenAI.
 - Desenvolvimento e sustentação de aplicações com APIs REST, agendamentos com Quartz, mensageria, filas, workers e geração de relatórios.
 - Entrega de frontends em React com Vite, Tailwind, Radix UI, MUI, React Hook Form, Playwright, Jest e Testing Library.
 - Deploy e operação de aplicações publicadas em Vercel e serviços Node containerizados com Docker.
-
+- Integrações com AWS, Cielo, Sicoob, Asaas, ZapSign, BrasilAPI e OpenAI.
+  
 ---
 
 ### Stack Principal
