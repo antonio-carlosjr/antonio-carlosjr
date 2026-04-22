@@ -51,14 +51,6 @@ Tech Lead e Software Developer com atuação em produtos digitais e sistemas cor
 - Soluções de acesso e eventos: jornadas de ingresso, gestão e experiência do usuário.
 - Edtechs e plataformas de conteúdo: academias, cursos e produtos digitais.
 - Soluções especializadas: saúde, nutrição, pets, produtividade e gestão interna.
-
----
-
-### Destaques Técnicos
-
-- Padronização de bases .NET reutilizáveis para acelerar a criação de novos produtos.
-- Soluções com módulos dedicados para BI, OpenAI, Reports API, Messenger, Queue e Workers.
-- Geração de PDF, planilhas, QR Code, automações e integrações externas.
 - Foco em código escalável, organização de domínio e entregas com visão de produto.
 
 ---
