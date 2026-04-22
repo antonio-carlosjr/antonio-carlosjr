@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=EF4444&center=true&vCenter=true&width=720&lines=Tech+Lead;Software+Developer;.NET+%7C+ASP.NET+Core+%7C+React+%7C+TypeScript;Arquitetura+de+software+e+produtos+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=antonio-carlosjr&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0e75b6&style=flat" alt="Contador de Visualizações" />
-</div>
-
 ---
 
 ### Sobre mim
