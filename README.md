@@ -66,13 +66,13 @@ Tech Lead e Software Developer com atuação em produtos digitais e sistemas cor
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/antonio-carlosjr/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats"/>
-  <img src="https://github.com/antonio-carlosjr/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/antonio-carlosjr/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/antonio-carlosjr/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/antonio-carlosjr/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Top Languages"/>
-  <img src="https://github.com/antonio-carlosjr/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/antonio-carlosjr/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/antonio-carlosjr/github-stats/generated/languages.svg#gh-light-mode-only" alt="Top Languages"/>
 </div>
 
 ---
