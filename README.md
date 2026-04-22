@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 Tech Lead e Software Developer com atuação em produtos digitais e sistemas corporativos de alta complexidade.
 
@@ -20,7 +20,7 @@ Tech Lead e Software Developer com atuação em produtos digitais e sistemas cor
 
 ---
 
-### 🧠 Experiência
+### Experiência
 
 - Arquitetura modular e Clean Architecture aplicada em soluções com múltiplos módulos de Core, Infrastructure, Communication, API e integrações especializadas.
 - Integrações com AWS, Cielo, Sicoob, Asaas, ZapSign, BrasilAPI e OpenAI.
@@ -30,7 +30,7 @@ Tech Lead e Software Developer com atuação em produtos digitais e sistemas cor
 
 ---
 
-### 💻 Stack Principal
+### Stack Principal
 
 .NET 8 | ASP.NET Core | C# | React | TypeScript | JavaScript | Node.js | NestJS | MongoDB | PostgreSQL | Docker | AWS
 
@@ -44,7 +44,7 @@ Tech Lead e Software Developer com atuação em produtos digitais e sistemas cor
 
 ---
 
-### 🚀 Projetos e Domínios
+### Projetos e Domínios
 
 - Plataformas de negócio e operação: ERP, CRM e painéis administrativos.
 - Produtos transacionais e integrações: e-commerce, pagamentos, assinaturas e fluxos financeiros.
@@ -54,7 +54,7 @@ Tech Lead e Software Developer com atuação em produtos digitais e sistemas cor
 
 ---
 
-### 📌 Destaques Técnicos
+### Destaques Técnicos
 
 - Padronização de bases .NET reutilizáveis para acelerar a criação de novos produtos.
 - Soluções com módulos dedicados para BI, OpenAI, Reports API, Messenger, Queue e Workers.
@@ -63,16 +63,21 @@ Tech Lead e Software Developer com atuação em produtos digitais e sistemas cor
 
 ---
 
-### 📊 Estatísticas do GitHub
+### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonio-carlosjr&show_icons=true&theme=tokyonight" alt="Estatísticas Gerais"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-carlosjr&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens"/>
+  <img src="https://github.com/antonio-carlosjr/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats"/>
+  <img src="https://github.com/antonio-carlosjr/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/antonio-carlosjr/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Top Languages"/>
+  <img src="https://github.com/antonio-carlosjr/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Top Languages"/>
 </div>
 
 ---
 
-### 🐍 Jogo da Cobrinha
+### Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/antonio-carlosjr/antonio-carlosjr/output/github-contribution-grid-snake.svg" alt="Snake Game" />
